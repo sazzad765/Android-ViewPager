@@ -1,4 +1,4 @@
-package com.team15.androidviewpager;
+package com.team15.androidviewpager.adapter;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;

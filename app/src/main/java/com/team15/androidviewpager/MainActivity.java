@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.widget.TextView;
 
 import com.google.android.material.tabs.TabLayout;
+import com.team15.androidviewpager.adapter.PagerAdapter;
 
 public class MainActivity extends AppCompatActivity {
     //sazzad765
